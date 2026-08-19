@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DodiDT.github.io/archive-r0u5du/sitemap.xml
